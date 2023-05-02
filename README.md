@@ -2,9 +2,10 @@
 
 # 👉 [简体中文文档](README-zh_CN.md)
 
-#如果需要代理api在q群公告：125800040
+#-默认使用官方api，如果需要魔法api看q群公告：125800040
 自备梯子无需进群
-安卓可以使用网页版：https://chat.aiprm.top
+-安卓可以使用网页版：https://chat.aiprm.top
+-白嫖密码也在公告中，也可以使用自己的key直接使用。
 
 Start the "Shortcut" through Siri to connect to the ChatGPT API, turning Siri into an AI chat assistant. You can speak your question directly to Siri, and Siri will answer you. Now our Siri has finally become intelligent and can talk to us fluently! And all this can be done with just a Shortcut and an API key.
 
