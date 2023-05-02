@@ -27,68 +27,6 @@ Start the "Shortcut" through Siri to connect to the ChatGPT API, turning Siri in
 
 Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePod、CarPlay.
 
-## ChatGPT Siri 1.0
-
-Support continuous chatting, exit chatting, start new chatting, customize API key, customize prompt system message, customize hint message.
-
-- [简体中文版](https://www.icloud.com/shortcuts/620e11d10bc4419497c0fd323e3fe8f1)
-- [English Version](https://www.icloud.com/shortcuts/4535286f97384f839439a865faacb9d2)
-
-## ChatGPT Siri 1.1
-
-> I recommend installing version 1.2, which saves chat logs with more chat details to a txt file for easier management.
-
-Support continuous chatting, exit chatting, start new chatting, customize API key, customize prompt system message, customize hint message.
-
-New feature: support for automatically saving chat records to the "Notes" app.
-
-- [简体中文版](https://www.icloud.com/shortcuts/b7c3c9939c2c43598caa1efcb3dad954)
-- [English Version](https://www.icloud.com/shortcuts/e288497f0de742fdb076195afd3bef86)
-
-## ChatGPT Siri 1.2
-
-Support continuous chatting, exit chatting, start new chatting, customize API key, customize prompt system message, customize hint message.
-
-New feature: automatically save chat data to a txt file, the record includes the sending and receiving time of each conversation, tokens consumption statistics.
-
-> Chat Records path: open the "Files" app, find the path: iCloud Drive/Shortcuts/ChatGPT-log to view the chat files, Supports iCloud sync.
-> 
-> You need to open 'Settings' - Apple ID - iCloud - iCloud Drive function to enable the feature of saving to txt file.
-
-- [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
-- [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
-
-### ChatGPT Siri 1.2.1
-
-The function is the same as 1.2, with additional support for sharing text to Shortcuts via Share Sheet on iPad and iPhone, and sending text to Shortcuts through Quick Actions on Mac, for quickly launching Shortcuts.
-
-- [简体中文版](https://www.icloud.com/shortcuts/592b5aad9b334363b0ee52d8a63f2e72)
-- [English Version](https://www.icloud.com/shortcuts/ed96bcaa8f62475eaf3b5c571606ec32)
-
-### ChatGPT Siri 1.2.2
-
-The function is the same as 1.2.1, but with a bug fix for new chat.
-
-- [简体中文版](https://www.icloud.com/shortcuts/e79548cd118e45b6a7ad124c891c4ac0)
-- [English Version](https://www.icloud.com/shortcuts/a0e7e6f919de42ce83ffd2af38f653c7)
-
-### ChatGPT Siri 1.2.3
-
-The function is same as 1.2.2, with the following additions:
-1. Ability to select the model and support GPT-4;
-2. Automatically copy the last response to the clipboard;
-3. Save chat records in different folders by day;
-4. Add back the default system message.
-
-- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457)
-- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533)
-
-### ChatGPT Siri 1.2.4
-
-The function is the same as 1.2.3, with a bug fix for potential issues with chats record directories in different language systems.
-
-- [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
-- [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
 
 ### ChatGPT Siri 1.2.5
 
@@ -97,7 +35,7 @@ The function is the same as 1.2.4, with the following modifications:
 1. Added error message for not finding choices.
 2. Removed colon from chat log file name to avoid potential directory issues.
 
-- [简体中文版](https://www.icloud.com/shortcuts/e663292993114a5ba1876023adb5f691)
+- [简体中文版](https://www.icloud.com/shortcuts/20221b88cbda4496a7a6840858c9af1f)
 - [English Version](https://www.icloud.com/shortcuts/e49118e4243e49cbbd29750b1b741a25)
 
 > Currently, GPT-4 requires joining a waitlist. Once you join the waitlist, you will receive a confirmation email. Then, you need to wait for the invitation to use the GPT-4 API, and after you have qualified, you can see the GPT-4 model option for testing in the playground backend. If you do not have GPT-4 qualifications, please choose to use the GPT-3.5-Turbo model. 
