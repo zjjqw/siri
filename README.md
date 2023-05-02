@@ -36,7 +36,7 @@ The function is the same as 1.2.4, with the following modifications:
 1. Added error message for not finding choices.
 2. Removed colon from chat log file name to avoid potential directory issues.
 
-- [简体中文版](https://www.icloud.com/shortcuts/20221b88cbda4496a7a6840858c9af1f)
+- [简体中文版](https://www.icloud.com/shortcuts/f47d112bf3854323bc8c0e90776a23bb)
 - [English Version](https://www.icloud.com/shortcuts/e49118e4243e49cbbd29750b1b741a25)
 
 > Currently, GPT-4 requires joining a waitlist. Once you join the waitlist, you will receive a confirmation email. Then, you need to wait for the invitation to use the GPT-4 API, and after you have qualified, you can see the GPT-4 model option for testing in the playground backend. If you do not have GPT-4 qualifications, please choose to use the GPT-3.5-Turbo model. 
