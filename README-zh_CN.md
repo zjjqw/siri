@@ -5,6 +5,10 @@
 # 准备工作
 
 - 确保网络能正常访问 https://api.openai.com 域名
+  #如果需要代理api在q群公告：125800040
+  自备梯子无需进群
+  安卓可以使用网页版：https://chat.aiprm.top
+  
 - 确保 API 帐户有足够余额：https://platform.openai.com/account/usage
 - 使用 Siri 启动快捷指令，打开设置-》Siri 回答-〉自动。钩上“始终显示你对Siri说的话”，可以方便查看识别是否精准。确保 Siri 的语言设置和你使用的语言一致。
 - 1.2 及以上版本，需要打开「设置」- Apple ID - iCloud - iCloud 云盘 功能，才能使用保存到 txt 文件功能。
