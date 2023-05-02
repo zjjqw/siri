@@ -32,7 +32,7 @@
 1. 增加找不到 choices 错误提示
 2. 去除聊天记录文件名中的 : ，以避免一些潜在目录错误问题
 
-- [简体中文版](https://www.icloud.com/shortcuts/20221b88cbda4496a7a6840858c9af1f)
+- [简体中文版](https://www.icloud.com/shortcuts/f47d112bf3854323bc8c0e90776a23bb)
 - [English Version](https://www.icloud.com/shortcuts/e49118e4243e49cbbd29750b1b741a25)
 
 > gpt-4 目前需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
