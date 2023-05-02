@@ -25,69 +25,6 @@
 
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
 
-## 智能聊天 1.0
-
-支持连续聊天，退出聊天，开始新聊天，自定义 API key，自定义 prompt 系统消息，自定义提示语。
-
-- [简体中文版](https://www.icloud.com/shortcuts/620e11d10bc4419497c0fd323e3fe8f1)
-- [English Version](https://www.icloud.com/shortcuts/4535286f97384f839439a865faacb9d2)
-
-## 智能聊天 1.1
-
-> 推荐安装1.2版本，更详细聊天记录，保存到txt文件更方便管理。
-
-支持连续聊天，退出聊天，开始新聊天，自定义 API key，自定义 prompt 系统消息，自定义提示语。
-
-新功能：支持自动保存聊天记录到「备忘录」app。
-
-- [简体中文版](https://www.icloud.com/shortcuts/b7c3c9939c2c43598caa1efcb3dad954)
-- [English Version](https://www.icloud.com/shortcuts/e288497f0de742fdb076195afd3bef86)
-
-## 智能聊天 1.2
-
-支持连续聊天，退出聊天，开始新聊天，自定义 API key，自定义 prompt 系统消息，自定义提示语。
-
-新功能：自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计。
-
-> 聊天记录保存位置：打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
-> 
-> 需要打开「设置」- Apple ID - iCloud - iCloud 云盘 功能，才能使用保存到 txt 文件功能。
-
-- [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
-- [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
-
-### 智能聊天 1.2.1
-
-功能和1.2相同，另外支持在iPad、iPhone通过共享表单分享文本到快捷指令，Mac上通过快速操作发送文本到快捷指令，以快速启动快捷指令。
-
-- [简体中文版](https://www.icloud.com/shortcuts/592b5aad9b334363b0ee52d8a63f2e72)
-- [English Version](https://www.icloud.com/shortcuts/ed96bcaa8f62475eaf3b5c571606ec32)
-
-### 智能聊天 1.2.2
-
-功能和1.2.1相同，修改新聊天bug。
-
-- [简体中文版](https://www.icloud.com/shortcuts/e79548cd118e45b6a7ad124c891c4ac0)
-- [English Version](https://www.icloud.com/shortcuts/a0e7e6f919de42ce83ffd2af38f653c7)
-
-### 智能聊天 1.2.3
-
-功能和1.2.2相同，增加：
-1. 选择模型功能，支持gpt-4；
-2. 自动复制最后一次回复到剪贴板；
-3. 聊天记录按天分不同文件夹保存；
-4. 添加回默认系统消息。
-
-- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457)
-- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533)
-
-### 智能聊天 1.2.4
-
-功能和 1.2.3 相同，修复不同语言系统聊天记录目录可能出现 bug。
-
-- [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
-- [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
-
 ### 智能聊天 1.2.5
 
 功能和 1.2.4 相同，修改：
@@ -95,7 +32,7 @@
 1. 增加找不到 choices 错误提示
 2. 去除聊天记录文件名中的 : ，以避免一些潜在目录错误问题
 
-- [简体中文版](https://www.icloud.com/shortcuts/e663292993114a5ba1876023adb5f691)
+- [简体中文版](https://www.icloud.com/shortcuts/20221b88cbda4496a7a6840858c9af1f)
 - [English Version](https://www.icloud.com/shortcuts/e49118e4243e49cbbd29750b1b741a25)
 
 > gpt-4 目前需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
@@ -109,7 +46,7 @@
 
 # 常见问题
 
-> 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/discussions/29
+> 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：或者进群看公告：125800040
 >
 > 我的测试设备是iOS16。据有用户反应，在低版本iOS上，1.2 版本安装不了，你可以选择低版本安装。
 
